@@ -15,8 +15,6 @@ vmess://eyJhZGQiOiI2OS41MC45My45MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8+America
 
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@jobscareertoday.com:443?security=tls&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8+America
-
 trojan://bpb-trojan@172.67.237.13:443?path=%2Ftr&security=tls&host=bpb.my79801.com&type=ws&sni=bpb.my79801.com#%F0%9F%87%BA%F0%9F%87%B8+America
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#%F0%9F%87%B8%F0%9F%87%AC+Singapore
